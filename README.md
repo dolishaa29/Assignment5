@@ -1,2 +1,11 @@
-# Assignment5
-This repository contains all the Python programming assignments completed as part of the Tutedude Python Programming Course. 
+# Tutedude Python Assignment 5 – Module 6: Data Structures and Strings in Python
+
+This repository contains Python scripts developed for **Assignment 5** of the **Tutedude Python Programming Course**, based on **Module 6: Data Structures and Strings in Python**. The objective of this assignment is to explore essential Python data structures such as dictionaries and lists, along with fundamental operations like slicing and searching within collections.
+
+The assignment is structured into two tasks. **Task 1** focuses on dictionary creation and retrieval operations. The program builds a dictionary where student names are used as keys and their respective marks as values. It then prompts the user to enter a student's name and attempts to fetch the corresponding marks. If the student exists in the dictionary, the program displays their marks; otherwise, it shows an appropriate message indicating that the student was not found. This task reinforces the concept of key-value mapping and conditional access in dictionaries, which are a core component of Python data handling.
+
+**Task 2** demonstrates the concept of list slicing and manipulation. The program first creates a list containing numbers from 1 to 10. It then extracts the first five elements using slicing, reverses this subset, and prints both the sliced list and the reversed version. This task provides hands-on experience with Python’s versatile list operations and introduces students to efficient ways of accessing and modifying list elements using slicing syntax and built-in methods.
+
+All scripts are implemented using Python 3 and follow clean coding practices to ensure clarity and simplicity. User-friendly prompts and result messages are included, along with necessary checks to handle possible edge cases such as missing dictionary entries. These exercises build practical experience with Python’s built-in data structures and serve as a strong foundation for more advanced programming concepts.
+
+To run the programs, simply clone this repository and execute the `.py` files in a Python 3 environment. This assignment demonstrates the practical application of collections and string operations, which are critical skills in any Python developer’s toolkit.
